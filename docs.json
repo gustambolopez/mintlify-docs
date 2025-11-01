@@ -7,6 +7,12 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+    "fonts": {
+    "family": "opensans",
+    "source": "https://cdn.jsdelivr.net/gh/gustambolopez/Files@main/Opensans-Regular.woff2",
+    "format": "woff2",
+    "weight": 400
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
