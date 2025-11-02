@@ -1,72 +1,80 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
-  "name": "Outbrowsed Design system",
-  "colors": {
-    "primary": "#3D3D3D",
-    "light": "#07C983",
-    "dark": "#525252"
-  },
-  "fonts": {
-    "family": "opensans",
-    "source": "https://cdn.jsdelivr.net/gh/gustambolopez/Files@main/Opensans-Regular.woff2",
-    "format": "woff2",
-    "weight": 400
-  },
-  "favicon": "https://framerusercontent.com/images/2ftPQzxkEbdaN5saVSRnmHSVODI.png",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": ["index"]
-          },
-          {
-            "group": "Fonts",
-            "pages": ["fonts/quickstart", "fonts/geist"]
-          },
-          {
-            "group": "Colors",
-            "pages": ["colors/pallet"]
-          }
-        ]
+   "$schema":"https://mintlify.com/docs.json",
+   "theme":"willow",
+   "name":"Outbrowsed Design system",
+   "colors":{
+      "primary":"#3D3D3D",
+      "light":"#07C983",
+      "dark":"#525252"
+   },
+   "fonts":{
+      "family":"opensans",
+      "source":"https://cdn.jsdelivr.net/gh/gustambolopez/Files@main/Opensans-Regular.woff2",
+      "format":"woff2",
+      "weight":400
+   },
+   "favicon":"https://framerusercontent.com/images/2ftPQzxkEbdaN5saVSRnmHSVODI.png",
+   "navigation":{
+      "tabs":[
+         {
+            "tab":"Guides",
+            "groups":[
+               {
+                  "group":"Getting Started",
+                  "pages":[
+                     "index"
+                  ]
+               },
+               {
+                  "group":"Fonts",
+                  "pages":[
+                     "fonts/quickstart",
+                     "fonts/geist",
+                     "fonts/onest"
+                  ]
+               },
+               {
+                  "group":"Colors",
+                  "pages":[
+                     "colors/pallet"
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   "logo":{
+      "light":"https://framerusercontent.com/images/EKbJ5Et5vOKk2VINxvmhpPX6Lg8.png",
+      "dark":"https://framerusercontent.com/images/2ftPQzxkEbdaN5saVSRnmHSVODI.png"
+   },
+   "navbar":{
+      "links":[
+         {
+            "label":"Support",
+            "href":"mailto:s16mogolixzq@gmail.com"
+         }
+      ],
+      "primary":{
+         "type":"button",
+         "label":"Github",
+         "href":"https://github.com/outbrowsed"
       }
-    ]
-  },
-  "logo": {
-    "light": "https://framerusercontent.com/images/EKbJ5Et5vOKk2VINxvmhpPX6Lg8.png",
-    "dark": "https://framerusercontent.com/images/2ftPQzxkEbdaN5saVSRnmHSVODI.png"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:s16mogolixzq@gmail.com"
+   },
+   "contextual":{
+      "options":[
+         "copy",
+         "view",
+         "chatgpt",
+         "claude",
+         "perplexity",
+         "mcp",
+         "cursor",
+         "vscode"
+      ]
+   },
+   "footer":{
+      "socials":{
+         "github":"https://github.com/outbrowsed"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Github",
-      "href": "https://github.com/outbrowsed"
-    }
-  },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
-  },
-  "footer": {
-    "socials": {
-      "github": "https://github.com/outbrowsed"
-    }
-  }
+   }
 }
