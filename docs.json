@@ -27,13 +27,6 @@
             ]
           },
           {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
             "group": "Fonts",
             "pages": [
               "fonts/quickstart",
