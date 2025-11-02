@@ -20,23 +20,16 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
-            "pages": [
-              "index"
-            ]
+            "group": "Getting Started",
+            "pages": ["index"]
           },
           {
             "group": "Fonts",
-            "pages": [
-              "fonts/quickstart",
-              "fonts/geist"
-            ]
+            "pages": ["fonts/quickstart", "fonts/geist"]
           },
-            {
-            "group": "colors",
-            "pages": [
-              "colors/pallet"
-            ]
+          {
+            "group": "Colors",
+            "pages": ["colors/pallet"]
           }
         ]
       }
