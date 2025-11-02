@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Outbrowsed Design system",
   "colors": {
-    "primary": "#616161",
+    "primary": "#3D3D3D",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#525252"
   },
   "fonts": {
     "family": "opensans",
