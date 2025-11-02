@@ -1,0 +1,31 @@
+---
+title: "Lucide"
+description: "A modern open src icon library built for web interfaces, offering simple integration via html,css and js"
+sidebarTitle: "Lucide"
+---
+
+**Lucide** is a clean, consistent icon toolkit maintained by a community of designers and developers, offering over 1,600 icons. It’s designed for flexibility across html, css or js environments: you can embed icons directly in html using data attributes, you can style them with css (size, color, stroke width), and manipulate them via js(via apicalls such as `createIcons()`). It supports a “static” mode (raw svgs, sprites, icon fonts) for low or no js setups, as well as dynamic js usage for interactive web apps.
+
+# Preview:
+
+![Image](https://www.figma.com/community/plugin/939567362549682242/thumbnail)
+
+**Using Lucide on the web:**
+
+Use a data attribute in an html tag to reference an icon name:
+
+```html
+<i data‑lucide="menu" class="iconidfk"></i>
+```
+
+Then include the Lucide script:
+
+```html
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+```
+
+And call the init function:
+
+```javascript
+lucide.createIcons();
+```

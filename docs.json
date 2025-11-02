@@ -39,6 +39,15 @@
                   "pages":[
                      "colors/pallet"
                   ]
+               },
+                             {
+                  "group":"Icons",
+                  "pages":[
+                     "icons/quickstart",
+                     "icons/lucide",
+                     "icons/iconoir",
+                     "icons/hugeicons"
+                  ]
                }
             ]
          }
