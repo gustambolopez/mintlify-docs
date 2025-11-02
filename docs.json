@@ -25,6 +25,12 @@
                      "index"
                   ]
                },
+              {
+                  "group":"Ux",
+                  "pages":[
+                     "ux/guide"
+                  ]
+               },
                {
                   "group":"Fonts (serif)",
                   "pages":[
