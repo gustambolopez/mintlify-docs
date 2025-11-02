@@ -31,6 +31,12 @@
               "fonts/quickstart",
               "fonts/geist"
             ]
+          },
+            {
+            "group": "colors",
+            "pages": [
+              "colors/pallet"
+            ]
           }
         ]
       }
