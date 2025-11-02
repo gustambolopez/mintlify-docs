@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Outbrowsed Design system",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-    "fonts": {
+  "fonts": {
     "family": "opensans",
     "source": "https://cdn.jsdelivr.net/gh/gustambolopez/Files@main/Opensans-Regular.woff2",
     "format": "woff2",
@@ -34,7 +34,7 @@
               "essentials/navigation"
             ]
           },
-            {
+          {
             "group": "Fonts",
             "pages": [
               "fonts/index",
@@ -80,56 +80,41 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://framerusercontent.com/images/EKbJ5Et5vOKk2VINxvmhpPX6Lg8.png",
+    "dark": "https://framerusercontent.com/images/2ftPQzxkEbdaN5saVSRnmHSVODI.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:s16mogolixzq@gmail.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Github",
+      "href": "https://github.com/outbrowsed"
     }
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/outbrowsed"
     }
   }
 }
+
